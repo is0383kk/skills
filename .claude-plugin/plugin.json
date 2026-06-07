@@ -1,0 +1,20 @@
+{
+  "name": "skills",
+  "description": "個人開発・ドキュメント変換向けの Claude Code Skills 集（docx/pdf/pptx/xlsx 相互変換、solo-sdd-kit）",
+  "version": "0.1.0",
+  "author": {
+    "name": "is0383kk"
+  },
+  "homepage": "https://github.com/is0383kk/skills",
+  "repository": "https://github.com/is0383kk/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "converter",
+    "docx",
+    "pdf",
+    "pptx",
+    "xlsx",
+    "sdd"
+  ]
+}
